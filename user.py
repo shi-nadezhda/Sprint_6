@@ -1,0 +1,21 @@
+class User_1:
+    name = "Боб"
+    surname = "Горохов"
+    address = "Грядковая 5"
+    metro = "Черкизовская"
+    phone = "81111111111"
+    date = "01.06.2024"
+    rental_day = "сутки"
+    color_scooter = "grey"
+    comment = "Привезите самокат на дачу"
+    
+class User_2:
+    name = "Витас"
+    surname = "Орунов"
+    address = "Сцена 1"
+    metro = "Сокольники"
+    phone = "11111111111"
+    date = "02.06.2024"
+    rental_day = "пятеро суток"
+    color_scooter = "black"
+    comment = "Буду кататься на сцене"
